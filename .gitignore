@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secret API Keys (VERY IMPORTANT)
+.env
+
+# Performance Test Results
+results_*.csv
+results_*.html
+locustfile.py
+
+# Local IDE settings
+.vscode/
